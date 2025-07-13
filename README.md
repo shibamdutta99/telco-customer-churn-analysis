@@ -88,7 +88,7 @@ telco-customer-churn-analysis/
 Hi, I'm **Shibam Dutta** — a data science enthusiast transitioning from photography and visual storytelling into the world of data analytics.
 
 📌 Open to **data analyst roles**  
-📬 Let’s connect on [LinkedIn](https://www.linkedin.com/in/shibamdutta99)
+📬 Let’s connect on [LinkedIn](https://www.linkedin.com/in/shibam-dutta-6a644a43/)
 
 ---
 
